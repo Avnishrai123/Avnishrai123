@@ -1,5 +1,10 @@
-## Hi there 👋
+## AboutMe
 
+1. 👋 Hi, I’m Avnish Kumar Rai, MCA Student
+2. 👀 I’m interested in java backend development , software development
+3. 🌱 Experienced in Spring boot , restApi, Microservice
+4. 💞️ I’m looking for a opportunity in java developer / java full stack developer
+5. 📫 Contact me through avnish25oct@gmail.com
 <!--
 **Avnishrai123/Avnishrai123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
